@@ -1,8 +1,8 @@
-# Choose Movies
+# Choose Your Movie
 
 The Movie Database sitesinden çekilen güncel filmlerin listelendiği ve filmlerin detaylarına erişildiği mobil uygulamadır.
 
-![a1](https://user-images.githubusercontent.com/57728209/143081936-405c0d9d-6df9-4521-ad11-df200cc0d2b3.PNG)  ![a2](https://user-images.githubusercontent.com/57728209/143082000-538e5bac-e317-4823-a37e-4a2b72ae39f0.PNG)
+<img src = "https://user-images.githubusercontent.com/57728209/143083788-ae999e85-f505-4f87-81bc-44b18f180ceb.PNG" width = "200" />     <img src = "https://user-images.githubusercontent.com/57728209/143083861-145cb234-e88f-4281-89fd-2cda5a72b2d1.PNG" width = "200" />
 
 ## Kullanılan Kütüphaneler
 - Retrofit
